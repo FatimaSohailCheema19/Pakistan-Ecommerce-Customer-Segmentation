@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+data/
+dataset/
+*.csv
+
+.DS_Store
+Thumbs.db
